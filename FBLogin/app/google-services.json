@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91825989606",
+    "project_id": "active-cable-166306"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91825989606:android:89af7f006513613e",
+        "android_client_info": {
+          "package_name": "com.mummy.googlefblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91825989606-vval40tcjv5bc0491587n2ie1ie5arpj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "91825989606-n3e7j67gh8cav496t7o39vmh80dldv57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mummy.googlefblogin",
+            "certificate_hash": "5a6507159ab05da97b840b33280f2731e834e1a6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIqSvo8xHAA47ExNjQ4Gi_oCbGhb1M9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
